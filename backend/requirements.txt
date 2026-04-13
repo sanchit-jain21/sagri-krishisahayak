@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+scikit-learn
+pandas
+joblib
+requests
+python-dotenv
+numpy
+pillow
+# Optional but heavy ML dependencies; commented out initially so install is fast.
+# If you run the actual models, you'll need these:
+tensorflow
+prophet==1.1.5
