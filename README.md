@@ -15,7 +15,7 @@ SAGRI is an advanced AI-powered farming assistant designed to empower farmers wi
 
 *   **Frontend**: React 18, Vite, Tailwind CSS, Framer Motion, Recharts.
 *   **Backend**: FastAPI (Python 3.10+), Uvicorn.
-*   **ML Models**: Random Forest (Scikit-learn), MobileNet (TensorFlow), Prophet.
+*   **ML Models**: Random Forest (Scikit-learn),XG Boost , MobileNet (TensorFlow), Prophet.
 *   **Database/Auth**: Supabase integration.
 
 ## 📦 Directory Structure
